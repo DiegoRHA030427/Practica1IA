@@ -1,0 +1,9 @@
+# Entorno virtual y archivos temporales de Python
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+# Caché de descargas de osmnx
+cache/
+
+Reporte_XRoute_6CV2.pdf
