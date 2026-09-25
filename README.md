@@ -73,6 +73,6 @@ Otros pares: [Zócalo](imagenes/mapa_zocalo.png) · [Tepito](imagenes/mapa_tepit
 ![pytest: 28 pruebas pasan](imagenes/cap_pytest.png)
 
 ## Reporte
-El reporte técnico completo está en 
+El reporte técnico completo está en [Reporte_XRoute_6CV2_Final.pdf](Reporte_XRoute_6CV2_Final.pdf).
 
 
